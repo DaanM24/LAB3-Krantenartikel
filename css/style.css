@@ -5,3 +5,16 @@ body {
 img vloot1.jpg{
     float: left
 }
+
+img vloot2.jpg{
+    float: left
+}
+
+img vloot3.jpg{
+    float: left
+}
+
+div {
+    width: 300px;
+    border: 2px solid black;
+}
