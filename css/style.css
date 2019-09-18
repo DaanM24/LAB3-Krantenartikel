@@ -2,19 +2,29 @@ body {
     background-color:lightblue;
 }
 
-img vloot1.jpg{
-    float: left
+
+
+div.vloot1 {
+    float: left;
 }
 
-img vloot2.jpg{
-    float: left
-}
-
-img vloot3.jpg{
-    float: left
-}
-
-div {
-    width: 300px;
+img {
+    margin: 20px;
     border: 2px solid black;
 }
+
+div.vloot2 {
+    float:right;
+    position: fixed;
+    top: 200px;
+}
+
+
+
+img.fixed {
+    position: fixed;
+}
+
+.clearfix {
+    overflow: auto;
+  }
